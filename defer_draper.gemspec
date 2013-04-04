@@ -10,7 +10,6 @@ Gem::Specification.new do |s|
     s.email         = 'ricardo.krieg@gmail.com'
     s.files         = ['lib/defer_draper.rb', 'lib/defer_draper/action_controller.rb']
     s.homepage      = 'https://github.com/ricardokrieg/defer_draper'
-    s.require_paths = ['lib']
 
     s.add_dependency 'draper', '~> 1.0'
 
