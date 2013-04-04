@@ -1,4 +1,3 @@
-require 'defer_draper/version'
 require 'defer_draper/action_controller'
 
 module DeferDraper
