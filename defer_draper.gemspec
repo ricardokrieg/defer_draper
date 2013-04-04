@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
     s.authors       = ["Ricardo Franco"]
     s.email         = 'ricardo.krieg@gmail.com'
     s.files         = ['lib/defer_draper.rb']
-    s.homepage      = 'http://github.com/ricardokrieg/defer_draper'
+    s.homepage      = 'https://github.com/ricardokrieg/defer_draper'
 
     s.add_dependency 'draper', '~> 1.0'
 
